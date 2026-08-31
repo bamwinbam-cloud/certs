@@ -4,4 +4,6 @@ Prompt Engineering: 🎉 I just earned the "Prompt Engineering" certificate on F
 Verify it here:
 https://freeacademy.ai/verify/FA-2026-PE-PZCA9G
 
+C#
+https://freecodecamp.org/certification/joshivansartin/foundational-c-sharp-with-microsoft
 
